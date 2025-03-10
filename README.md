@@ -1,0 +1,2 @@
+# POC
+animal face recognition
